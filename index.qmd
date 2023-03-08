@@ -1,0 +1,15 @@
+---
+title: "This is my first website"
+---
+
+## Generating Random Numbers
+```{r}
+library(ggplot2)
+x <- rnorm(100,10,3)
+y <- x + rnorm(100,0,1)
+data.frame(x,y) |> 
+  ggplot(aes(x,y)) +
+  geom_point(col = "#000ff0", alpha = .5) +
+  geom_smooth(method = "lm",formula = "y ~ x",se = F, col = "#0010ff", alpha = .7)
+```
+

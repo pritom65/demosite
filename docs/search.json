@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is my first website",
+    "section": "",
+    "text": "library(ggplot2)\nx <- rnorm(100,10,3)\ny <- x + rnorm(100,0,1)\ndata.frame(x,y) |> \n  ggplot(aes(x,y)) +\n  geom_point(col = \"#000ff0\", alpha = .5) +\n  geom_smooth(method = \"lm\",formula = \"y ~ x\",se = F, col = \"#0010ff\", alpha = .7)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
