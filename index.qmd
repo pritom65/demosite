@@ -21,11 +21,11 @@ Hi. There is a short description about kaw. Kaw is a bird.
 
 
 
-![This is kaw](photos/IMG_20210216_134809.jpeg)
+![This is kaw](docs/photos/IMG_20210216_134809.jpeg)
 
 ## Kaw in Diff look
 Here is kaw with a different look.
-![Nice teeth BTW](photos/IMG_20210619_125806.jpeg)
+![Nice teeth BTW](docs/photos/IMG_20210619_125806.jpeg)
 
 
 End of the doc.
