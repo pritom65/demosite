@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "This is my first website",
     "section": "",
-    "text": "library(ggplot2)\nx <- rnorm(100,10,3)\ny <- x + rnorm(100,0,1)\ndata.frame(x,y) |> \n  ggplot(aes(x,y)) +\n  geom_point(col = \"#000ff0\", alpha = .5) +\n  geom_smooth(method = \"lm\",formula = \"y ~ x\",se = F, col = \"#0010ff\", alpha = .7)"
+    "text": "This is something to write.\n\nlibrary(ggplot2)\nx <- rnorm(100,10,3)\ny <- x + rnorm(100,0,1)\ndata.frame(x,y) |> \n  ggplot(aes(x,y)) +\n  geom_point(col = \"#000ff0\", alpha = .5) +\n  geom_smooth(method = \"lm\",formula = \"y ~ x\",se = F, col = \"#0010ff\", alpha = .7)"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#introducing-kaw",
+    "href": "index.html#introducing-kaw",
+    "title": "This is my first website",
+    "section": "Introducing KAW",
+    "text": "Introducing KAW\nHi. There is a short description about kaw. Kaw is a bird.\n\n\n\nThis is kaw"
+  },
+  {
+    "objectID": "index.html#kaw-in-diff-look",
+    "href": "index.html#kaw-in-diff-look",
+    "title": "This is my first website",
+    "section": "Kaw in Diff look",
+    "text": "Kaw in Diff look\nHere is kaw with a different look. \nEnd of the doc."
   }
 ]

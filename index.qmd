@@ -3,6 +3,7 @@ title: "This is my first website"
 ---
 
 ## Generating Random Numbers
+This is something to write.
 ```{r}
 library(ggplot2)
 x <- rnorm(100,10,3)
@@ -12,4 +13,24 @@ data.frame(x,y) |>
   geom_point(col = "#000ff0", alpha = .5) +
   geom_smooth(method = "lm",formula = "y ~ x",se = F, col = "#0010ff", alpha = .7)
 ```
+
+
+## Introducing KAW
+
+Hi. There is a short description about kaw. Kaw is a bird.
+
+
+
+![This is kaw](photos/IMG_20210216_134809.jpeg)
+
+## Kaw in Diff look
+Here is kaw with a different look.
+![Nice teeth BTW](photos/IMG_20210619_125806.jpeg)
+
+
+End of the doc.
+
+
+
+
 
